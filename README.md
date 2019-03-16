@@ -32,4 +32,7 @@ Activate code 990               ---shutdown command                             
 hold on or stop taking          ---stop listening                                        <br>
 talk back or back on            ---start listening                                   <br>
 talk to me                      ---tells a joke                                      <br>
+Date                            ---tells the today's Date            <br>
+time                            ---tells the time                  <br>
+system info or system details     ---tells about your system details        <br>
 ......

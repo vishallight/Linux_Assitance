@@ -1,0 +1,8 @@
+SpeechRecognition
+Pyttsx
+gTTS
+PyAudio
+datetime
+wikipedia
+selenium
+xlib

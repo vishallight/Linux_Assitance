@@ -1,4 +1,4 @@
-# linux_assitance
+# Voice_assitance
 First things First
 <p> you need to have both Google chrome and Firefox  </p>
  
